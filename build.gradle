@@ -120,7 +120,6 @@ dependencies {
 //}
 
 wrapper {
-    gradleVersion = '5.4.1'
     distributionUrl = distributionUrl.replace("bin", "all")
 }
 
